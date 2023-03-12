@@ -1,5 +1,6 @@
 {
     "version": "1.0",
-    "url": "https://gist.github.com/lukesampson/6446238/raw/hello.ps1",
+    "description": "放置在挂载了阿里云的本地alist上的hello.ps1",
+    "url": "http://localhost:5244/d/aDrive/KazinScoopBucket/hello.ps1",
     "bin": "hello.ps1"
 }
